@@ -190,7 +190,7 @@ from the simulation. This was such an amazing project and I thoroughly enjoyed l
 So since this was the final project, I decided to have a little extra fun and incorporate something I have been reading about
 lately into this project! I decided to implement a simple genetic algorithm in order to help optimize the hyperparameters for this project.
 I created another jupyter notebook that borrowed heavily from this project, and used that as a basis to implement the algorithm. That notebook is
-named genetic_algorithm.ipynb. If you decide to look at it, I went much more in detail about the algorithm, why I decided to try it out,
+named genetic_model_training.ipynb. If you decide to look at it, I went much more in detail about the algorithm, why I decided to try it out,
 why genetic algorithms are used in deep learning, and how I implemented it in this project. I have only run tests so far, as I do not want to use
 up my AWS credits before this project is submitted, but after this project is approved, I plan on using the rest of my credits building out full
 sets of hyperparameters to run and see what comes back as the optimal hyperparameters. If you get a chance to look at the notebook,

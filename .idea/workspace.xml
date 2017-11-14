@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d2baeec-c3a7-4b78-8236-85850e18f808" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/RoboND-Segmentation-Lab/UdacityRobotics.pem" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RoboND-DeepLearning-Project/README.md" afterPath="$PROJECT_DIR$/RoboND-DeepLearning-Project/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RoboND-DeepLearning-Project/code/model_training.ipynb" afterPath="$PROJECT_DIR$/RoboND-DeepLearning-Project/code/model_training.ipynb" />
     </list>
     <ignored path="Udacity-Robotics.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -45,8 +42,8 @@
         <entry file="file://$PROJECT_DIR$/RoboND-DeepLearning-Project/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-1020">
-                <caret line="82" column="0" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+              <first_editor relative-caret-position="630">
+                <caret line="192" column="28" selection-start-line="192" selection-start-column="28" selection-end-line="192" selection-end-column="28" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -305,7 +302,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="3" y="23" width="1677" height="933" extended-state="1" />
+    <frame x="3" y="23" width="1677" height="933" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.10604027" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -451,8 +448,8 @@
     <entry file="file://$PROJECT_DIR$/RoboND-DeepLearning-Project/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-1020">
-            <caret line="82" column="0" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+          <first_editor relative-caret-position="630">
+            <caret line="192" column="28" selection-start-line="192" selection-start-column="28" selection-end-line="192" selection-end-column="28" />
             <folding />
           </first_editor>
           <second_editor>
